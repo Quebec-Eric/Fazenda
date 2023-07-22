@@ -1,0 +1,4 @@
+/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles/MeuProjeto.dir
+/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles/edit_cache.dir
+/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles/rebuild_cache.dir
+/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles/MeuProjeto_autogen.dir
