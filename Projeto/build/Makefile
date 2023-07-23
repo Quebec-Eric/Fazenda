@@ -358,6 +358,30 @@ src/BackEnd/Receita/Receita.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MeuProjeto.dir/build.make CMakeFiles/MeuProjeto.dir/src/BackEnd/Receita/Receita.cpp.s
 .PHONY : src/BackEnd/Receita/Receita.cpp.s
 
+src/FrontEnd/Secundaria/Janela1/SecondWindow.o: src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o
+.PHONY : src/FrontEnd/Secundaria/Janela1/SecondWindow.o
+
+# target to build an object file
+src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MeuProjeto.dir/build.make CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o
+.PHONY : src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o
+
+src/FrontEnd/Secundaria/Janela1/SecondWindow.i: src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.i
+.PHONY : src/FrontEnd/Secundaria/Janela1/SecondWindow.i
+
+# target to preprocess a source file
+src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MeuProjeto.dir/build.make CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.i
+.PHONY : src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.i
+
+src/FrontEnd/Secundaria/Janela1/SecondWindow.s: src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.s
+.PHONY : src/FrontEnd/Secundaria/Janela1/SecondWindow.s
+
+# target to generate assembly for a file
+src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MeuProjeto.dir/build.make CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.s
+.PHONY : src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.s
+
 src/FrontEnd/TelaPrincipal/Principal.o: src/FrontEnd/TelaPrincipal/Principal.cpp.o
 .PHONY : src/FrontEnd/TelaPrincipal/Principal.o
 
@@ -381,6 +405,30 @@ src/FrontEnd/TelaPrincipal/Principal.s: src/FrontEnd/TelaPrincipal/Principal.cpp
 src/FrontEnd/TelaPrincipal/Principal.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MeuProjeto.dir/build.make CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.s
 .PHONY : src/FrontEnd/TelaPrincipal/Principal.cpp.s
+
+src/FrontEnd/TelaPrincipal/myapplication.o: src/FrontEnd/TelaPrincipal/myapplication.cpp.o
+.PHONY : src/FrontEnd/TelaPrincipal/myapplication.o
+
+# target to build an object file
+src/FrontEnd/TelaPrincipal/myapplication.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MeuProjeto.dir/build.make CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o
+.PHONY : src/FrontEnd/TelaPrincipal/myapplication.cpp.o
+
+src/FrontEnd/TelaPrincipal/myapplication.i: src/FrontEnd/TelaPrincipal/myapplication.cpp.i
+.PHONY : src/FrontEnd/TelaPrincipal/myapplication.i
+
+# target to preprocess a source file
+src/FrontEnd/TelaPrincipal/myapplication.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MeuProjeto.dir/build.make CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.i
+.PHONY : src/FrontEnd/TelaPrincipal/myapplication.cpp.i
+
+src/FrontEnd/TelaPrincipal/myapplication.s: src/FrontEnd/TelaPrincipal/myapplication.cpp.s
+.PHONY : src/FrontEnd/TelaPrincipal/myapplication.s
+
+# target to generate assembly for a file
+src/FrontEnd/TelaPrincipal/myapplication.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MeuProjeto.dir/build.make CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.s
+.PHONY : src/FrontEnd/TelaPrincipal/myapplication.cpp.s
 
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
@@ -443,9 +491,15 @@ help:
 	@echo "... src/BackEnd/Receita/Receita.o"
 	@echo "... src/BackEnd/Receita/Receita.i"
 	@echo "... src/BackEnd/Receita/Receita.s"
+	@echo "... src/FrontEnd/Secundaria/Janela1/SecondWindow.o"
+	@echo "... src/FrontEnd/Secundaria/Janela1/SecondWindow.i"
+	@echo "... src/FrontEnd/Secundaria/Janela1/SecondWindow.s"
 	@echo "... src/FrontEnd/TelaPrincipal/Principal.o"
 	@echo "... src/FrontEnd/TelaPrincipal/Principal.i"
 	@echo "... src/FrontEnd/TelaPrincipal/Principal.s"
+	@echo "... src/FrontEnd/TelaPrincipal/myapplication.o"
+	@echo "... src/FrontEnd/TelaPrincipal/myapplication.i"
+	@echo "... src/FrontEnd/TelaPrincipal/myapplication.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

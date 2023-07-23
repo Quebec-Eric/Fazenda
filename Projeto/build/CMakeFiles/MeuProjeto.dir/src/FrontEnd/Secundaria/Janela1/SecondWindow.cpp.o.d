@@ -1,8 +1,7 @@
-CMakeFiles/MeuProjeto.dir/MeuProjeto_autogen/mocs_compilation.cpp.o: \
- /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/MeuProjeto_autogen/mocs_compilation.cpp \
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o: \
+ /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp \
  /usr/include/stdc-predef.h \
- /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/MeuProjeto_autogen/CXIQZPEZCJ/moc_SecondWindow.cpp \
- /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/MeuProjeto_autogen/CXIQZPEZCJ/../../../src/FrontEnd/Secundaria/Janela1/SecondWindow.h \
+ /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/Secundaria/Janela1/SecondWindow.h \
  /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
@@ -335,7 +334,6 @@ CMakeFiles/MeuProjeto.dir/MeuProjeto_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt6/QtWidgets/qboxlayout.h \
  /usr/include/qt6/QtWidgets/qgridlayout.h \
  /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h \
- /usr/include/qt6/QtCore/qtmochelpers.h \
- /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/MeuProjeto_autogen/UG3Y4T7O2N/moc_myapplication.cpp \
- /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/MeuProjeto_autogen/UG3Y4T7O2N/../../../src/FrontEnd/TelaPrincipal/myapplication.h \
- /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h
+ /usr/include/qt6/QtWidgets/QMessageBox \
+ /usr/include/qt6/QtWidgets/qmessagebox.h \
+ /usr/include/qt6/QtWidgets/qdialog.h

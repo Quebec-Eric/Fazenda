@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build"
+    "cmake.sourceDirectory": "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build",
+    "C_Cpp.errorSquiggles": "disabled"
 }

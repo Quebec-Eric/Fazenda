@@ -8,7 +8,11 @@ set(CMAKE_AUTORCC ON)
 
 find_package(Qt6 COMPONENTS Widgets REQUIRED)
 
-file(GLOB_RECURSE SOURCES "src/*.cpp")
+file(GLOB_RECURSE SOURCES 
+    "src/*.cpp"
+    "src/FrontEnd/TelaPrincipal/*.cpp"
+    "src/FrontEnd/Secundaria/Janela1/*.cpp")
+
 add_executable(MeuProjeto ${SOURCES})
 
 target_link_libraries(MeuProjeto Qt6::Widgets)

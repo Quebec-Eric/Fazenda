@@ -17,7 +17,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/BackEnd/GastosFazenda/GastosFazenda.cpp" "CMakeFiles/MeuProjeto.dir/src/BackEnd/GastosFazenda/GastosFazenda.cpp.o" "gcc" "CMakeFiles/MeuProjeto.dir/src/BackEnd/GastosFazenda/GastosFazenda.cpp.o.d"
   "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/BackEnd/Pagamento/Pagamento.cpp" "CMakeFiles/MeuProjeto.dir/src/BackEnd/Pagamento/Pagamento.cpp.o" "gcc" "CMakeFiles/MeuProjeto.dir/src/BackEnd/Pagamento/Pagamento.cpp.o.d"
   "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/BackEnd/Receita/Receita.cpp" "CMakeFiles/MeuProjeto.dir/src/BackEnd/Receita/Receita.cpp.o" "gcc" "CMakeFiles/MeuProjeto.dir/src/BackEnd/Receita/Receita.cpp.o.d"
+  "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp" "CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o" "gcc" "CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o.d"
   "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/Principal.cpp" "CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o" "gcc" "CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o.d"
+  "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/myapplication.cpp" "CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o" "gcc" "CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o.d"
   "/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/main.cpp" "CMakeFiles/MeuProjeto.dir/src/main.cpp.o" "gcc" "CMakeFiles/MeuProjeto.dir/src/main.cpp.o.d"
   )
 

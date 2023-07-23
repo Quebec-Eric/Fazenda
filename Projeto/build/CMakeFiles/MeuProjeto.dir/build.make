@@ -195,10 +195,24 @@ CMakeFiles/MeuProjeto.dir/src/BackEnd/Receita/Receita.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MeuProjeto.dir/src/BackEnd/Receita/Receita.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/BackEnd/Receita/Receita.cpp -o CMakeFiles/MeuProjeto.dir/src/BackEnd/Receita/Receita.cpp.s
 
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o: CMakeFiles/MeuProjeto.dir/flags.make
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o: /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o: CMakeFiles/MeuProjeto.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o -MF CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o.d -o CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o -c /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp
+
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp > CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.i
+
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp -o CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.s
+
 CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o: CMakeFiles/MeuProjeto.dir/flags.make
 CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o: /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/Principal.cpp
 CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o: CMakeFiles/MeuProjeto.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o -MF CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o.d -o CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o -c /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/Principal.cpp
 
 CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.i: cmake_force
@@ -209,10 +223,24 @@ CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/Principal.cpp -o CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.s
 
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o: CMakeFiles/MeuProjeto.dir/flags.make
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o: /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/myapplication.cpp
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o: CMakeFiles/MeuProjeto.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o -MF CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o.d -o CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o -c /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/myapplication.cpp
+
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/myapplication.cpp > CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.i
+
+CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/myapplication.cpp -o CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.s
+
 CMakeFiles/MeuProjeto.dir/src/main.cpp.o: CMakeFiles/MeuProjeto.dir/flags.make
 CMakeFiles/MeuProjeto.dir/src/main.cpp.o: /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/main.cpp
 CMakeFiles/MeuProjeto.dir/src/main.cpp.o: CMakeFiles/MeuProjeto.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MeuProjeto.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/MeuProjeto.dir/src/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MeuProjeto.dir/src/main.cpp.o -MF CMakeFiles/MeuProjeto.dir/src/main.cpp.o.d -o CMakeFiles/MeuProjeto.dir/src/main.cpp.o -c /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/main.cpp
 
 CMakeFiles/MeuProjeto.dir/src/main.cpp.i: cmake_force
@@ -234,7 +262,9 @@ MeuProjeto_OBJECTS = \
 "CMakeFiles/MeuProjeto.dir/src/BackEnd/GastosFazenda/GastosFazenda.cpp.o" \
 "CMakeFiles/MeuProjeto.dir/src/BackEnd/Pagamento/Pagamento.cpp.o" \
 "CMakeFiles/MeuProjeto.dir/src/BackEnd/Receita/Receita.cpp.o" \
+"CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o" \
 "CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o" \
+"CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o" \
 "CMakeFiles/MeuProjeto.dir/src/main.cpp.o"
 
 # External object files for target MeuProjeto
@@ -249,7 +279,9 @@ MeuProjeto: CMakeFiles/MeuProjeto.dir/src/BackEnd/Fazenda/Fazenda.cpp.o
 MeuProjeto: CMakeFiles/MeuProjeto.dir/src/BackEnd/GastosFazenda/GastosFazenda.cpp.o
 MeuProjeto: CMakeFiles/MeuProjeto.dir/src/BackEnd/Pagamento/Pagamento.cpp.o
 MeuProjeto: CMakeFiles/MeuProjeto.dir/src/BackEnd/Receita/Receita.cpp.o
+MeuProjeto: CMakeFiles/MeuProjeto.dir/src/FrontEnd/Secundaria/Janela1/SecondWindow.cpp.o
 MeuProjeto: CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o
+MeuProjeto: CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/myapplication.cpp.o
 MeuProjeto: CMakeFiles/MeuProjeto.dir/src/main.cpp.o
 MeuProjeto: CMakeFiles/MeuProjeto.dir/build.make
 MeuProjeto: /usr/lib/libQt6Widgets.so.6.5.2
@@ -258,7 +290,7 @@ MeuProjeto: /usr/lib/libQt6Core.so.6.5.2
 MeuProjeto: /usr/lib/libGLX.so
 MeuProjeto: /usr/lib/libOpenGL.so
 MeuProjeto: CMakeFiles/MeuProjeto.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable MeuProjeto"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/quebec/Documents/FaTrabalho/Fazenda/Projeto/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable MeuProjeto"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MeuProjeto.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

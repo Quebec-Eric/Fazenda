@@ -1,8 +1,6 @@
 CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o: \
  /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/Principal.cpp \
- /usr/include/stdc-predef.h \
- /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/Principal.h \
- /usr/include/qt6/QtWidgets/QApplication \
+ /usr/include/stdc-predef.h /usr/include/qt6/QtWidgets/QApplication \
  /usr/include/qt6/QtWidgets/qapplication.h \
  /usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt6/QtGui/qtguiglobal.h /usr/include/qt6/QtCore/qglobal.h \
@@ -341,4 +339,12 @@ CMakeFiles/MeuProjeto.dir/src/FrontEnd/TelaPrincipal/Principal.cpp.o: \
  /usr/include/qt6/QtGui/qtextdocument.h /usr/include/qt6/QtCore/qurl.h \
  /usr/include/qt6/QtGui/qtextoption.h \
  /usr/include/qt6/QtGui/qtextcursor.h \
- /usr/include/qt6/QtGui/qtextformat.h /usr/include/qt6/QtGui/qpen.h
+ /usr/include/qt6/QtGui/qtextformat.h /usr/include/qt6/QtGui/qpen.h \
+ /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/myapplication.h \
+ /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h \
+ /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/FrontEnd/TelaPrincipal/../Secundaria/Janela1/SecondWindow.h \
+ /usr/include/qt6/QtWidgets/QLabel /usr/include/qt6/QtWidgets/qlabel.h \
+ /usr/include/qt6/QtGui/qpicture.h /usr/include/qt6/QtCore/qiodevice.h \
+ /usr/include/qt6/QtWidgets/QLineEdit \
+ /usr/include/qt6/QtWidgets/qlineedit.h \
+ /usr/include/qt6/QtWidgets/QWidget /usr/include/qt6/QtWidgets/qwidget.h
