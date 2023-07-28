@@ -13,5 +13,8 @@ public:
     void atualizaValorKgAtual(double novoValorKg);
     void atualizaValorPretendido(double novoValorPretendido);
     void atualizaAlertaMelhorValor();
+    double getValorAtual();
+    double getvalorPretendido();
+     double getValorKgAtual();
     // Aqui você pode adicionar métodos para acessar os valores privados (getters) se necessário.
 };

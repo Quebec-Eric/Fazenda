@@ -15,7 +15,11 @@ public:
     Vacina(const std::string& nome, const std::string& dataAplicacaoStr,
            int diasProximaAplicacao, double ml, bool ultimaDose);
     ~Vacina();
-
+    std::string getNomeVascina();
+    std::tm getDataAplicacao();
+    std::tm getProximaAplicacao();
+    bool getUltimaDose();
+    double getMl();
     // Métodos de acesso poderiam ser adicionados aqui, por exemplo:
     // std::string getNomeVascina() const;
     // std::tm getDataAplicacao() const;

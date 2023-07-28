@@ -13,6 +13,11 @@ public:
     Vacina(const std::string& nome, const std::string& dataAplicacaoStr,
            int diasProximaAplicacao,double ml ,bool ultimaDose);
     ~Vacina();
+    std::string getNomeVascina();
+    std::tm getDataAplicacao();
+    std::tm getProximaAplicacao();
+    bool getUltimaDose();
+    double getMl();
 };
 
 Vacina::Vacina(const std::string& nome, const std::string& dataAplicacaoStr,
@@ -33,5 +38,26 @@ Vacina::Vacina(const std::string& nome, const std::string& dataAplicacaoStr,
    
 }
 
+std::string Vacina::getNomeVascina(){
+    return this->nomeVascina;
+}
+
+bool Vacina::getUltimaDose(){
+    return this->ultimaDose;
+}
+
+double Vacina::getMl(){
+    return this->ml;
+}
+
+std::tm Vacina::getProximaAplicacao(){
+    return this->proximaAplicacao;
+}
+
+std::tm Vacina::getDataAplicacao(){
+    return this->dataAplicacao;
+}
+
 Vacina::~Vacina() {
+
 }

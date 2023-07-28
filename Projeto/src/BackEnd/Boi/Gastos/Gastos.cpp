@@ -2,6 +2,7 @@
 #include <vector>
 #include <map>
 #include <string>
+#include <iostream>
 
 std::map<std::string, BovineFood> foodMap = {
     {"grass", GRASS},
@@ -12,19 +13,7 @@ std::map<std::string, BovineFood> foodMap = {
 };
 
 
-class Gastos
-{
-private:
-    std::vector<BovineFood> foodList;
-    int valorTotal;
-
-
-public:
-    Gastos();
-    ~Gastos();
-};
-
-Gastos::Gastos(std::const int valorTotal,const std::vector<std::string>& foods) {
+Gastos::Gastos( int valorTotal,const std::vector<std::string>& foods) {
     for (const auto& food : foods) {
         if (foodMap.count(food) > 0) {
             foodList.push_back(foodMap[food]);
@@ -33,6 +22,15 @@ Gastos::Gastos(std::const int valorTotal,const std::vector<std::string>& foods) 
         }
     }
     this->valorTotal=valorTotal;
+}
+
+std::vector<BovineFood> Gastos:: getFoodList(){
+
+    return this->foodList;
+}
+
+int Gastos:: getValortoral(){
+    return this->valorTotal;
 }
 
 Gastos::~Gastos()

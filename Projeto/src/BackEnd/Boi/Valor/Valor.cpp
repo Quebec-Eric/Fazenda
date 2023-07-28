@@ -1,3 +1,4 @@
+#include <vector>
 class Valor {
 private:
     double valorAtual;
@@ -9,6 +10,21 @@ public:
     Valor(double valorAtual, double valorKgAtual, double valorPretendido)
         : valorAtual(valorAtual), valorKgAtual(valorKgAtual), valorPretendido(valorPretendido) {
         alertaMelhorValor = false;
+    
+    }
+
+    double getValorAtual(){
+        return this->valorAtual;
+    }
+
+    double getvalorPretendido(){
+        return this->valorPretendido;
+    }
+
+    
+
+    double getValorKgAtual(){
+        return this->valorKgAtual;
     }
 
     void atualizaValor(double novoValor) {
