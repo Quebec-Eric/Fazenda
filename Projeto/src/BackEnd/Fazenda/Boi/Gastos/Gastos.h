@@ -13,19 +13,19 @@ enum BovineFood {
     MINERAL_MIX
 };
 
-
 class Gastos
 {
 private:
-    
     int valorTotal;
+    std::vector<BovineFood> foodList; // Added this line
     std::map<std::string, BovineFood> foodMap;
 
 public:
+    Gastos();
     Gastos(int valorTotal, const std::vector<std::string>& foods);
     ~Gastos();
     std::vector<BovineFood> getFoodList();
-    int getValortoral();
+    int getValorTotal(); // Fixed the typo here
 };
 
 #endif // GASTOS_H

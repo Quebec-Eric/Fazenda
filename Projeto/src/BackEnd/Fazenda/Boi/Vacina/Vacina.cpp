@@ -2,23 +2,8 @@
 #include <ctime>
 #include <string>
 
-class Vacina {
-private:
-    std::string nomeVascina;
-    std::tm dataAplicacao;
-    std::tm proximaAplicacao;
-    bool ultimaDose;
-    double ml;
-public:
-    Vacina(const std::string& nome, const std::string& dataAplicacaoStr,
-           int diasProximaAplicacao,double ml ,bool ultimaDose);
-    ~Vacina();
-    std::string getNomeVascina();
-    std::tm getDataAplicacao();
-    std::tm getProximaAplicacao();
-    bool getUltimaDose();
-    double getMl();
-};
+#include "Vacina.h"
+
 
 Vacina::Vacina(const std::string& nome, const std::string& dataAplicacaoStr,
                int diasProximaAplicacao, double ml ,bool ultimaDose)

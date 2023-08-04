@@ -8,6 +8,7 @@ private:
     double valorPretendido;
     bool alertaMelhorValor;
 public:
+    Valor(); // Declare default constructor
     Valor(double valorAtual, double valorKgAtual, double valorPretendido);
     void atualizaValor(double novoValor);
     void atualizaValorKgAtual(double novoValorKg);

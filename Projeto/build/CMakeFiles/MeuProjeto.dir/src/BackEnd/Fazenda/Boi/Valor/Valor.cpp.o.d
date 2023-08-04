@@ -1,7 +1,7 @@
-CMakeFiles/MeuProjeto.dir/src/BackEnd/Boi/Valor/Valor.cpp.o: \
- /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/BackEnd/Boi/Valor/Valor.cpp \
+CMakeFiles/MeuProjeto.dir/src/BackEnd/Fazenda/Boi/Valor/Valor.cpp.o: \
+ /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/BackEnd/Fazenda/Boi/Valor/Valor.cpp \
  /usr/include/stdc-predef.h \
- /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/BackEnd/Boi/Valor/Valor.h \
+ /home/quebec/Documents/FaTrabalho/Fazenda/Projeto/src/BackEnd/Fazenda/Boi/Valor/Valor.h \
  /usr/include/c++/13.1.1/vector \
  /usr/include/c++/13.1.1/bits/requires_hosted.h \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
